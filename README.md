@@ -5,7 +5,6 @@ WebGPT is a modern, lightweight web-based chat application that leverages a GPT 
 ## Features
 
 - **Responsive Chat Interface:** Auto-resizing input area and smooth scroll-to-bottom for a fluid conversation experience.
-- **Animated Typing Effect:** Simulates real-time typing for AI responses, enhancing user engagement.
 - **Markdown & Code Formatting:** Uses [marked.js](https://github.com/markedjs/marked) and [highlight.js](https://highlightjs.org/) to render Markdown content and highlight code blocks.
 - **Token Usage Tracking:** Displays prompt and completion token counts for each interaction.
 - **Interactive Message Buttons:** Provides copy-to-clipboard and text-to-speech functionalities for AI responses.
@@ -24,7 +23,7 @@ WebGPT is a modern, lightweight web-based chat application that leverages a GPT 
 2. **Installation:**
    - Clone this repository:
      ```
-     git clone https://github.com/yourusername/WebGPT.git
+     git clone https://github.com/k5-k/WebGPT.git
      ```
    - Open the project directory in your browser or deploy it on your web server.
 
